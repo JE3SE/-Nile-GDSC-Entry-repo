@@ -14,13 +14,13 @@ Challenges designed for those **new to design**, focusing on fundamental princip
 
 ### Intermediate Level
 
-Challenges designed for those with **foundational design knowledge**, requiring skills in user empathy, information architecture, and UI component design. Each domain contains **3 design prompts** covering core concepts.
+Challenges designed for those with **foundational design knowledge**, requiring skills in user empathy, information architecture, and UI component design.
 
 ### Pro Level
 
 Advanced challenges for **experienced designers**, featuring more complex projects like end-to-end case studies, full branding strategy, and high-fidelity prototyping.
 
-Both levels include challenges in four key **Design Disciplines**:
+All levels include challenges in these four key **Design Disciplines**:
 
   - **User Experience (UX)** - User research, journey mapping, and information architecture
   - **User Interface (UI)** - Visual design, typography, color theory, and high-fidelity prototyping
@@ -32,54 +32,67 @@ Both levels include challenges in four key **Design Disciplines**:
 ## Getting Started
 
 1.  **Choose your level**: Navigate to the `Novice/`, `Intermediate/`, or `Pro/` folder
-2.  **Select a domain**: Choose from UX, UI, Branding, or Design Systems
-3.  **Read the instructions**: Review the `README.md` and **`project_brief.md`** in your chosen folder
-4.  **Complete the challenge**: Open the **`starter_template.fig`** (or relevant link) and complete **ANY ONE challenge** (or 2 if you want to challenge yourself)
+2.  **Select a domain**: Choose from the design disciplines listed above.
+3.  **Read the instructions**: Review the `README.md` and **`project_brief.md`** in your chosen folder.
+4.  **Complete the challenge**: Open the **`starter_template.fig`** (or relevant file/link) and complete **ANY ONE challenge** (or 2 if you want to challenge yourself).
 
 -----
 
 ## Repository Structure
 
-The `starter.ipynb` files are replaced with design-tool templates (e.g., Figma, Sketch) or asset folders.
+The new structure now fully incorporates the **Novice** level with introductory tasks:
 
 ```
 GDSC-Design-Challenges-Repo/
 ├── README.md
-├── Intermediate/
-│   ├── User Experience (UX)/
+|
+├── Novice/
+│   // Focus: Fundamentals, single-screen design, basic visual identity
+│   ├── UI_Fundamentals/
 │   │   ├── README.md             // Domain instructions
-│   │   ├── project_brief.md      // Specific design tasks (replaces tasks.md)
-│   │   └── wireframe_template.fig  // Starter file (e.g., Figma link/file)
+│   │   ├── project_brief.md      // Challenge: Design a single-screen form (e.g., login or signup)
+│   │   └── starter_template.fig  // Figma/Sketch file with basic artboard
+│   │
+│   ├── Visual_Identity_101/
+│   │   ├── README.md
+│   │   ├── project_brief.md      // Challenge: Create a simple color palette and typography scale
+│   │   └── starter_assets/       // Folder for basic image/font assets
+│   │
+│   └── UX_Principles/
+│       ├── README.md
+│       ├── project_brief.md      // Challenge: Map a very simple user journey (e.g., opening an app and viewing a profile)
+│       └── journey_map_template.fig 
+|
+├── Intermediate/
+│   // Focus: Flow design, component architecture, mid-fidelity
+│   ├── User Experience (UX)/
+│   │   ├── README.md
+│   │   ├── project_brief.md      // Challenge: Design a 4-step user flow (e.g., product checkout)
+│   │   └── wireframe_template.fig 
 │   ├── User Interface (UI)/
 │   │   ├── README.md
-│   │   ├── project_brief.md
+│   │   ├── project_brief.md      // Challenge: Create a high-fidelity landing page based on a provided wireframe
 │   │   └── style_guide_template.fig
 │   └── Branding & Visual Identity/
 │       ├── README.md
-│       ├── project_brief.md
-│       └── moodboard_assets/    // Starter folder for images/fonts
+│       ├── project_brief.md      // Challenge: Design a primary and secondary logo variation for a fictional app
+│       └── moodboard_assets/
+|
 └── Pro/
+    // Focus: Strategy, full case studies, advanced systems, and motion
     ├── End-to-End Case Study (UX/UI)/
     │   ├── README.md
-    │   ├── project_brief.md
-    │   └── research_data_link.txt // Link to mock research data
-    ├── Design Systems/
+    │   ├── project_brief.md      // Challenge: Full product design from research to prototype
+    │   └── research_data_link.txt
+    ├── Design Tools & Systems/
     │   ├── README.md
-    │   ├── project_brief.md
+    │   ├── project_brief.md      // Challenge: Build a reusable component library with documentation
     │   └── component_spec_template.fig
     └── Motion & Interaction/
         ├── README.md
-        ├── project_brief.md
-        └── animation_brief.mp4 // Example or guidance video
+        ├── project_brief.md      // Challenge: Design and animate a complex micro-interaction or transition
+        └── animation_brief.mp4
 ```
-
------
-
-## Requirements
-
-  - **Design Tool:** Figma, Sketch, Adobe XD, or other relevant tool (e.g., Adobe Illustrator for Branding).
-  - **Prototyping:** Ability to create basic to high-fidelity prototypes.
-  - **Documentation:** Proficiency in explaining design choices (typically via a Case Study document or within the `project_brief.md` submission).
 
 -----
 
@@ -90,7 +103,7 @@ GDSC-Design-Challenges-Repo/
 1.  **Fork this repository** to your GitHub account.
 2.  **Complete your chosen challenge(s).** Your main deliverable should be a **PDF export** of your final work and a **link to the live file/prototype** (e.g., Figma link).
 3.  **Save your file(s)** inside the appropriate domain folder and commit and push your changes to your forked repository.
-4.  **Submit a pull request** and title it as: **`submission: [Your Name] - [Level] - [Domain]`** (e.g., `submission: Jane Doe - Intermediate - User Experience (UX)`)
+4.  **Submit a pull request** and title it as: **`submission: [Your Name] - [Level] - [Domain]`** (e.g., `submission: Jane Doe - Novice - UI_Fundamentals`)
 
 -----
 
@@ -101,5 +114,3 @@ If you have questions or need clarification:
   - Review the **`project_brief.md`** file for detailed requirements.
   - Check the hints and resources provided in each domain's folder.
   - Any questions reach out on the **Design Group Chat**.
-
-Good luck and happy designing\! 🚀
