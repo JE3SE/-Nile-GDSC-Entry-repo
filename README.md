@@ -49,48 +49,48 @@ GDSC-Design-Challenges-Repo/
 ├── Novice/
 │   // Focus: Fundamentals, single-screen design, basic visual identity
 │   ├── UI_Fundamentals/
-│   │   ├── README.md             // Domain instructions
-│   │   ├── project_brief.md      // Challenge: Design a single-screen form (e.g., login or signup)
-│   │   └── starter_template.fig  // Figma/Sketch file with basic artboard
+│   │   ├── README.md            
+│   │   ├── project_brief.md      
+│   │   └── starter_template.fig 
 │   │
 │   ├── Visual_Identity_101/
 │   │   ├── README.md
-│   │   ├── project_brief.md      // Challenge: Create a simple color palette and typography scale
-│   │   └── starter_assets/       // Folder for basic image/font assets
+│   │   ├── project_brief.md      
+│   │   └── starter_assets/       
 │   │
 │   └── UX_Principles/
 │       ├── README.md
-│       ├── project_brief.md      // Challenge: Map a very simple user journey (e.g., opening an app and viewing a profile)
+│       ├── project_brief.md     
 │       └── journey_map_template.fig 
 |
 ├── Intermediate/
 │   // Focus: Flow design, component architecture, mid-fidelity
 │   ├── User Experience (UX)/
 │   │   ├── README.md
-│   │   ├── project_brief.md      // Challenge: Design a 4-step user flow (e.g., product checkout)
+│   │   ├── project_brief.md      
 │   │   └── wireframe_template.fig 
 │   ├── User Interface (UI)/
 │   │   ├── README.md
-│   │   ├── project_brief.md      // Challenge: Create a high-fidelity landing page based on a provided wireframe
+│   │   ├── project_brief.md     
 │   │   └── style_guide_template.fig
 │   └── Branding & Visual Identity/
 │       ├── README.md
-│       ├── project_brief.md      // Challenge: Design a primary and secondary logo variation for a fictional app
+│       ├── project_brief.md      
 │       └── moodboard_assets/
 |
 └── Pro/
     // Focus: Strategy, full case studies, advanced systems, and motion
     ├── End-to-End Case Study (UX/UI)/
     │   ├── README.md
-    │   ├── project_brief.md      // Challenge: Full product design from research to prototype
+    │   ├── project_brief.md     
     │   └── research_data_link.txt
     ├── Design Tools & Systems/
     │   ├── README.md
-    │   ├── project_brief.md      // Challenge: Build a reusable component library with documentation
+    │   ├── project_brief.md      
     │   └── component_spec_template.fig
     └── Motion & Interaction/
         ├── README.md
-        ├── project_brief.md      // Challenge: Design and animate a complex micro-interaction or transition
+        ├── project_brief.md     
         └── animation_brief.mp4
 ```
 
