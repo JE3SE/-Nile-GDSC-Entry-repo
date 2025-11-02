@@ -1,0 +1,5 @@
+# Mid-Fidelity Prototype Link
+
+[Applicant must replace this bracketed text with the public URL of their interactive Figma, Sketch, or Adobe XD prototype.]
+
+[Example: https://www.figma.com/proto/ABC-12345/Payment-Update-Flow]
