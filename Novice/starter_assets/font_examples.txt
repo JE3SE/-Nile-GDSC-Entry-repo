@@ -1,8 +1,0 @@
-# Some common free fonts to consider (available on Google Fonts):
-- Roboto
-- Open Sans
-- Lato
-- Montserrat
-- Poppins
-- Merriweather
-- Playfair Display
