@@ -4,7 +4,7 @@
 
 This template provides the required structure for the moderator to conduct a simple, task-based usability test session consistently with all participants.
 
-## **I. Setup and Introduction (5 Minutes)**
+**I. Setup and Introduction (5 Minutes)**
 
 | Field | Instructions for Moderator | Notes & Time |
 | :--- | :--- | :--- |
