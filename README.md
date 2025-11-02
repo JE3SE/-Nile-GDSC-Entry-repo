@@ -1,116 +1,83 @@
------
+---
 
 # 🎨 GDSC Design Group Application Challenges Repository
 
-This is the repository for the Nile GDSC **Design Team** application entry. Please make sure to read below before proceeding.
+This is the official repository for the GDSC Design Group's application and skill development entry. It is structured to help you practice and demonstrate proficiency across various professional design roles.
 
-## Overview
+---
 
-This repository contains **Design Challenges** at three skill levels:
+## 🎯 Our Mission
 
-### Novice Level
+This repository serves two primary goals:
 
-Challenges designed for those **new to design**, focusing on fundamental principles, basic tool usage, and visual elements.
+1.  **Application:** To evaluate candidates for the GDSC Design Group based on their role specialization and skill level (Novice, Intermediate, Pro).
+2.  **Development:** To provide structured, real-world design challenges for all members to practice and grow in specific design disciplines.
 
-### Intermediate Level
+## 🧭 Repository Structure: Roles and Levels
 
-Challenges designed for those with **foundational design knowledge**, requiring skills in user empathy, information architecture, and UI component design.
+This repository is organized by professional **Design Roles** and tiered by **Skill Level**. You should navigate to the folder corresponding to the role you are applying for or wish to specialize in.
 
-### Pro Level
+### 🌟 Skill Levels
 
-Advanced challenges for **experienced designers**, featuring more complex projects like end-to-end case studies, full branding strategy, and high-fidelity prototyping.
+| Level | Focus | Expected Deliverable |
+| :--- | :--- | :--- |
+| **Novice** | **Fundamentals & Theory.** Focuses on basic principles, single screens, and clear documentation. | Simple visual designs, basic flow maps, definition of terms. |
+| **Intermediate**| **Execution & Logic.** Focuses on multi-step flows, component states, and applying research principles. | Mid-fidelity prototypes, detailed component specifications, full test plans. |
+| **Pro** | **Strategy & Systems.** Focuses on business goals, design systems, and end-to-end case studies. | Comprehensive case studies, service blueprints, design token strategy documentation. |
 
-All levels include challenges in these four key **Design Disciplines**:
+### 🧑‍💻 Design Roles (Folders)
 
-  - **User Experience (UX)** - User research, journey mapping, and information architecture
-  - **User Interface (UI)** - Visual design, typography, color theory, and high-fidelity prototyping
-  - **Branding & Visual Identity** - Logo design, brand guidelines, and mood boards
-  - **Design Tools & Systems** - Component libraries, auto-layout, and cross-platform adaptation
+| Folder Name | Core Focus |
+| :--- | :--- |
+| `UX_Researcher/` | Planning, executing, and synthesizing user studies and tests. |
+| `Information_Architect/`| Structuring content, defining navigation, and mapping complex user flows. |
+| `UI_Designer/` | Visual hierarchy, typography, color, and high-fidelity interface polishing. |
+| `Visual_Motion_Designer/`| Brand identity, visual storytelling, and micro-interaction animation. |
+| `Product_Designer/` | Owning the end-to-end process from problem definition to final prototype and metrics. |
+| `UX_Engineer/` | The technical bridge between design and code (specs, accessibility, tokens). |
 
------
+---
 
-## Getting Started
+## 🚀 Getting Started
 
-1.  **Choose your level**: Navigate to the `Novice/`, `Intermediate/`, or `Pro/` folder
-2.  **Select a domain**: Choose from the design disciplines listed above.
-3.  **Read the instructions**: Review the `README.md` and **`project_brief.md`** in your chosen folder.
-4.  **Complete the challenge**: Open the **`starter_template.fig`** (or relevant file/link) and complete **ANY ONE challenge** (or 2 if you want to challenge yourself).
+Follow these steps to complete your chosen challenge:
 
------
+1.  **Choose Your Role:** Select the role folder that aligns with your interest (e.g., `Product_Designer/`).
+2.  **Select Your Level:** Navigate into the `Novice/`, `Intermediate/`, or `Pro/` sub-folder.
+3.  **Read the Brief:** Review the **`project_brief.md`** file for the specific challenge, requirements, and deliverables.
+4.  **Complete the Challenge:** Use the provided starter files or templates in your preferred design tool (Figma, Sketch, etc.).
 
-## Repository Structure
+---
 
-The new structure now fully incorporates the **Novice** level with introductory tasks:
+## 📤 Submission Guidelines
 
-```
-GDSC-Design-Challenges-Repo/
-├── README.md
-|
-├── Novice/
-│   // Focus: Fundamentals, single-screen design, basic visual identity
-│   ├── UI_Fundamentals/
-│   │   ├── README.md            
-│   │   ├── project_brief.md      
-│   │   └── starter_template.fig 
-│   │
-│   ├── Visual_Identity_101/
-│   │   ├── README.md
-│   │   ├── project_brief.md      
-│   │   └── starter_assets/       
-│   │
-│   └── UX_Principles/
-│       ├── README.md
-│       ├── project_brief.md     
-│       └── journey_map_template.fig 
-|
-├── Intermediate/
-│   // Focus: Flow design, component architecture, mid-fidelity
-│   ├── User Experience (UX)/
-│   │   ├── README.md
-│   │   ├── project_brief.md      
-│   │   └── wireframe_template.fig 
-│   ├── User Interface (UI)/
-│   │   ├── README.md
-│   │   ├── project_brief.md     
-│   │   └── style_guide_template.fig
-│   └── Branding & Visual Identity/
-│       ├── README.md
-│       ├── project_brief.md      
-│       └── moodboard_assets/
-|
-└── Pro/
-    // Focus: Strategy, full case studies, advanced systems, and motion
-    ├── End-to-End Case Study (UX/UI)/
-    │   ├── README.md
-    │   ├── project_brief.md     
-    │   └── research_data_link.txt
-    ├── Design Tools & Systems/
-    │   ├── README.md
-    │   ├── project_brief.md      
-    │   └── component_spec_template.fig
-    └── Motion & Interaction/
-        ├── README.md
-        ├── project_brief.md     
-        └── animation_brief.mp4
-```
+Your submission must be handled via a **Pull Request (PR)** on this repository.
 
------
+### How to Submit:
 
-## Submission
+1.  **Fork** this repository to your personal GitHub account.
+2.  **Complete** your task(s) in the appropriate folder (e.g., placing your PDF or a link file in `UI_Designer/Intermediate/`).
+3.  **Commit and Push** your changes to your forked repository.
+4.  **Create a Pull Request** back to the main repository.
 
-### How to Submit
+### PR Title Format (Required):
 
-1.  **Fork this repository** to your GitHub account.
-2.  **Complete your chosen challenge(s).** Your main deliverable should be a **PDF export** of your final work and a **link to the live file/prototype** (e.g., Figma link).
-3.  **Save your file(s)** inside the appropriate domain folder and commit and push your changes to your forked repository.
-4.  **Submit a pull request** and title it as: **`submission: [Your Name] - [Level] - [Domain]`** (e.g., `submission: Jane Doe - Novice - UI_Fundamentals`)
+Your Pull Request title must clearly state your name, level, and chosen role:
 
------
+> `submission: [Your Name] - [Level] - [Role Folder Name]`
 
-## Support
+**Example:** `submission: Jane Doe - Intermediate - Product_Designer`
 
-If you have questions or need clarification:
+---
 
-  - Review the **`project_brief.md`** file for detailed requirements.
-  - Check the hints and resources provided in each domain's folder.
-  - Any questions reach out on the **Design Group Chat**.
+## ❓ Support
+
+If you have questions about a specific task's requirements or need clarification:
+* Review the detailed **`project_brief.md`** file within your chosen folder.
+* Reach out on the **Design Group Chat** for community support.
+
+Good luck! We look forward to seeing your work! 🚀
+
+---
+
+What would you like to build next? We can focus on one of the **`project_brief.md`** files, such as the **Novice/UX\_Researcher** challenge.
