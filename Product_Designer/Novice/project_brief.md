@@ -16,15 +16,15 @@ While "LocalLink" has many users, there is very low interaction outside of readi
 4.  **Success Metric:** Identify **one primary metric** (KPI) that would measure the success of your proposed feature (e.g., "Number of tasks completed per week").
 
 ## 🚫 Constraints
-* **Format:** All answers must fit within the structured sections of the `problem_statement_template.txt`.
+* **Format:** All answers must fit within the structured sections of the `problem_statement_template.md`.
 * **Focus:** Do not design the screen itself. Focus only on the strategic text documents.
 
 ## 🚀 Deliverables
-1.  **Problem Statement Document:** The completed document using the provided **`problem_statement_template.txt`**, saved as a **TXT or PDF**.
+1.  **Problem Statement Document:** The completed document using the provided **`problem_statement_template.md`**, saved as a **TXT or PDF**.
 2.  **Brief Justification:** In your submission, explain how your hypothesis (Part 3) directly addresses the core **pain point** defined in your problem statement (Part 2).
 
 ## 🔗 Starter File
-Use the structured **`problem_statement_template.txt`** to organize your submission.
+Use the structured **`problem_statement_template.md`** to organize your submission.
 
 ---
 *Start with the 'why'!*
