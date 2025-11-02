@@ -25,7 +25,7 @@ Design a complete research plan and synthesize the findings (hypothetically) to 
 2.  **Brief Justification:** In your submission, explain how you ensured your interview questions were **unbiased and non-leading**.
 
 ## 🔗 Starter File
-Use the structured **`research_report_template.pdf`** to organize your submission.
+Use the structured **`research_report_template.md`** to organize your submission.
 
 ---
 *Uncover the 'why'!*
