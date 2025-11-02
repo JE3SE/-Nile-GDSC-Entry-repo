@@ -3,7 +3,7 @@
 
 ## 📄 Usability Test Script Template (Novice Level)
 
-**(File Name: `test_script_template.docx`)**
+**(File Name: `test_script_template.md`)**
 
 This template provides the required structure for the moderator to conduct a simple, task-based usability test session consistently with all participants.
 
