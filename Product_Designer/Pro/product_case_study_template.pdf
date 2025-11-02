@@ -1,0 +1,28 @@
+# Product Case Study Template: WealthTrack - Subscription Health Feature
+
+## SLIDE 1: Title & Executive Summary
+* Project Name, Role, and Key Outcome (e.g., "Reduced Churn by 10%").
+
+## SLIDE 2: The Business Problem & Metrics
+* **Problem Statement:** Clear definition of the user/business pain point.
+* **Success Metrics (KPIs):** Leading KPI (Feature Usage) & Lagging KPI (Churn Rate).
+
+## SLIDE 3: Research & Validation
+* **User Profile/Persona:** The target user losing perceived value.
+* **Hypothesis:** The If/Then/Because statement driving the solution.
+
+## SLIDE 4-5: Mid-Fidelity & Flow
+* **Flow Map:** The user journey for interacting with the new feature.
+* **Wireframes:** Mid-Fidelity screens focusing on information hierarchy.
+
+## SLIDE 6-8: High-Fidelity Design
+* **Final UI Screens:** High-Fidelity views of the 2-3 key screens.
+* **Visual Rationale:** Explanation of typography, color, and visual hierarchy choices.
+
+## SLIDE 9: Design System & Handoff
+* **Key Components:** List of unique components built for this feature.
+* **Technical Specs:** Handoff notes, token names, and responsiveness requirements.
+
+## SLIDE 10: Conclusion & Next Steps
+* **Summary of Impact:** How the solution addresses the initial problem.
+* **Future Work:** What would you test next?
