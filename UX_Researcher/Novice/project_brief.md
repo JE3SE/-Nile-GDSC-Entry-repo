@@ -25,7 +25,7 @@ The fictional app, "QuickLaunch," wants to ensure its sign-up process is intuiti
 2.  **Brief Justification:** In your submission, include a sentence explaining **why you chose your specific task** (e.g., "I chose the sign-up task because it's the critical first hurdle for a new user.").
 
 ## 🔗 Starter File
-Open this template, which provides the basic structure for your script: `test_script_template.docx`
+Open this template, which provides the basic structure for your script: `test_script_template.md`
 
 ---
 *Ask the right questions!*
