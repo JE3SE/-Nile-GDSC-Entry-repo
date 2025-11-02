@@ -1,12 +1,6 @@
-I will create the content for the `test_script_template.docx` file, which is the primary deliverable for the **Novice/UX\_Researcher** challenge.
-
-Since I cannot generate a physical `.docx` file, I will provide the content in a structured Markdown format that represents the document's sections and fields, ready for copy-pasting into a word processor.
-
 ---
 
 ## 📄 Usability Test Script Template (Novice Level)
-
-**(File Name: `test_script_template.docx`)**
 
 This template provides the required structure for the moderator to conduct a simple, task-based usability test session consistently with all participants.
 
