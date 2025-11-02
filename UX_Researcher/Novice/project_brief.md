@@ -26,7 +26,6 @@ The fictional app, "QuickLaunch," wants to ensure its sign-up process is intuiti
 
 ## 🔗 Starter File
 Open this template, which provides the basic structure for your script: `test_script_template.docx`
-*(Note: This would be a simple file with sections for Introduction, Pre-Test Questions, Task, and Post-Test Questions.)*
 
 ---
 *Ask the right questions!*
